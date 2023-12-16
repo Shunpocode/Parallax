@@ -55,7 +55,7 @@ header ul li a:hover
 }
 section {
 	top: 0px;
-	background-image: url("mountains-cleft-view-from-bottom-night-scenery-landscape-with-high-rocks-full-moon-with-stars-glowing-peaks/перед.svg"),url("mountains-cleft-view-from-bottom-night-scenery-landscape-with-high-rocks-full-moon-with-stars-glowing-peaks/ml.svg"), url("mountains-cleft-view-from-bottom-night-scenery-landscape-with-high-rocks-full-moon-with-stars-glowing-peaks/задник.svg"), url("mountains-cleft-view-from-bottom-night-scenery-landscape-with-high-rocks-full-moon-with-stars-glowing-peaks/луна.svg"),url("mountains-cleft-view-from-bottom-night-scenery-landscape-with-high-rocks-full-moon-with-stars-glowing-peaks/звезды.svg");
+	background-image: url("/перед.svg"),url("/ml.svg"), url("/задник.svg"), url("/луна.svg"),url("/звезды.svg");
 	background-repeat: no-repeat;
 	position: relative;
 	width: 100%;
