@@ -55,7 +55,7 @@ header ul li a:hover
 }
 section {
 	top: 0px;
-	background-image: url("перед.svg"),url("ml.svg"), url("задник.svg"), url("луна.svg"),url("звезды.svg");
+	background-image: url("1перед.svg"),url("1ml.svg"), url("1задник.svg"), url("1луна.svg"),url("1звезды.svg");
 	background-repeat: no-repeat;
 	position: relative;
 	width: 100%;
